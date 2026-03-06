@@ -51,8 +51,9 @@ Except for modifications to the bottom shell coil, the rest is basically the sam
 **4. The transparent version for the small RFID coil, please choose [4_Small_Coli_Transparent](./4_Small_Coli_Transparent)** 
 <sub>*This directory includes 3 parts: top shell, bottom shell, and buttons.*</sub>
 ![Step\_8](./Step/Step_8.jpg)
-Based on the previous version, the thickness of the top and bottom surfaces has been reduced. The keycap installation method has also been changed. The keycaps can now be directly pressed onto the buttons without blocking other areas, achieving better transparency.
-However, if you want even better transparency, it is recommended to use the third version model with resin printing and perform additional post-processing.
+The basic version has removed the light guide pillars and side infrared windows. The keycap installation method has been changed; the keycaps can now be directly pressed onto the keys for better transparency. For ultimate transparency, you can use UV-curing printing and perform some post-processing.
+
+Additionally, the catalog includes a "Thinner_thickness" version, which further removes the patterns on the bottom and front, and is thinner. It produces slightly better results when printed with FDM, but the shell's strength will be affected; please choose carefully.
 
 ### Disassembly and assembly instructions:
 
