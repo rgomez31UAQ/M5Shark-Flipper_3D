@@ -8,9 +8,3 @@ Welcome here, and thank you all for your support. This is the public directory o
 
 [Shell_Modell](./Shell_Model)
 The shell model files are now available. You can print a more attractive ⭐ and personalized 😎 enclosure for yourself!
-
-This is my YouTube channel
-[Youtube](https://www.youtube.com/channel/UCHENkZK1oac_hoAVk4aAufA)
-
-This is my BiliBili channel
-[BiliBili](https://space.bilibili.com/150167463)

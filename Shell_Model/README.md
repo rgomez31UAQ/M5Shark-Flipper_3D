@@ -19,11 +19,14 @@ Please note that older versions will no longer be updated or modified.
 
 1. Due to cost constraints and the early stage of the project, the structure is not perfect. There are risks during disassembly and assembly. Please read the instructions carefully and make sure you have a soldering iron and steady hands.
 2. Replacing and installing the shell requires hands-on ability. Make sure you can handle it before starting. Do not damage your device. You are responsible for any consequences caused by disassembly.
-3. Ensure the print bed is clean and has good adhesion. When printing the front letters "R" and "O", the print bed quality is critical (when I first printed, I failed many times because the bed was not clean enough and adhesion was poor).
+3. Ensure the print bed is clean and has good adhesion. When printing the front letters, the print bed quality is critical (when I first printed, I failed many times because the bed was not clean enough and adhesion was poor).
 4. Choose the correct shell version. Note that each bottom shell is not compatible with others. It is recommended to use all files within the same directory and not mix different versions.
 5. Be mentally prepared. Since the internal assembly is hand-soldered, there will be visible soldering marks~ (what more do you expect? :roll_eyes:~)
 
 ### How to identify the version? Observe the pattern on the bottom shell!
+
+> [!TIP]
+> If you obtained the device after February 2026, please select 3 or 4
 
 **1. If it looks like this, it is the large RFID coil version. Please choose [1_Big_Coil](./1_Big_Coil)**
 <sub>*No longer maintained*</sub>
@@ -48,7 +51,7 @@ To simplify the number of parts, the transparent version optimizes the “infrar
 ![Bottom\_image\_1](./3_Small_Coil/image/Bottom_image_1.png)
 Except for modifications to the bottom shell coil, the rest is basically the same as the first version.
 
-**4. The transparent version for the small RFID coil, please choose [4_Small_Coli_Transparent](./4_Small_Coli_Transparent)** 
+**4. The Exploratory transparent version for the small RFID coil, please choose [4_Small_Coli_Transparent](./4_Small_Coli_Transparent)** 
 <sub>*This directory includes 3 parts: top shell, bottom shell, and buttons.*</sub>
 ![Step\_8](./Step/Step_8.jpg)
 The basic version has removed the light guide pillars and side infrared windows. The keycap installation method has been changed; the keycaps can now be directly pressed onto the keys for better transparency. For ultimate transparency, you can use UV-curing printing and perform some post-processing.

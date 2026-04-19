@@ -8,8 +8,3 @@
 
 [Shell_Modell](./Shell_Model)
 目前开放了外壳模型文件，现在你可以为自己打印更漂亮⭐更具个人特色😎的外壳!
-
-这是我的Youtube频道
-[Youtube](https://www.youtube.com/channel/UCHENkZK1oac_hoAVk4aAufA)
-这是我的BiliBili频道
-[BiliBili](https://space.bilibili.com/150167463)
