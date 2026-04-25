@@ -1,4 +1,5 @@
 Welcome here, and thank you all for your support. This is the public directory of the Zero project, where some files will be gradually open-sourced.
+If you have any good suggestions, you can contact me via email (xiao_hei666@yeah.net).
 
 > [!IMPORTANT]
 > Statement: If you like the FlipperZero project and have sufficient financial ability, please purchase the original device through official channels. Building such a strong community is not easy, and we appreciate that they have open-sourced a large amount of materials. My device is not intended for counterfeiting or piracy. It includes targeted modifications and uses a completely new exterior design for clear distinction. The enclosure is fully incompatible with the original device. The purpose is to create a more affordable device and promote better development of the project.
