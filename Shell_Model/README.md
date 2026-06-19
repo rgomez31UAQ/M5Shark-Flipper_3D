@@ -58,6 +58,29 @@ The basic version has removed the light guide pillars and side infrared windows.
 
 Additionally, the catalog includes a "Thinner_thickness" version, which further removes the patterns on the bottom and front, and is thinner. It produces slightly better results when printed with FDM, but the shell's strength will be affected; please choose carefully.
 
+**5. For the Internal Antenna Version, please select [5_Internal_antenna](./5_Internal_antenna)**
+
+<sub>*This directory includes four parts: top enclosure, bottom enclosure, button, and light guide pillar.*</sub>
+
+![Step\_9](./Step/Step_9.jpg)
+
+Although the SMA connector allows you to freely choose and match different antennas, if you prefer a more compact device, you can try this version, which hides the antenna inside the enclosure. Please note that this will reduce RF performance and shorten the communication range.
+
+Compared with the standard version, the SMA antenna connector on the left side has been removed, and the size of the side infrared window has been slightly adjusted. Other than these changes, it is identical to the standard version.
+
+To use an internal antenna, you will need to make some modifications to the PCB. First, purchase a 433 MHz spring antenna. The recommended size and purchase link are shown below:
+
+![ant](./Step/ant.jpg)
+
+[Taobao Purchase Link](https://item.taobao.com/item.htm?id=649004376195)
+
+You may also choose an antenna according to your own needs. If you use 315 MHz more frequently, you can use a 315 MHz antenna to achieve the best performance. In addition, it is recommended to purchase an antenna with a heat-shrink protective sleeve.
+
+Follow the **Disassembly and Assembly Instructions** to remove the PCB, then replace the original SMA antenna connector with the spring antenna shown above. Solder the antenna vertically to the back side of the PCB as shown below.
+
+![ant1](./Step/ant1.jpg)
+
+
 ### Disassembly and assembly instructions:
 
 Although the shells and internal parts vary between versions, the disassembly and assembly steps are basically the same.
