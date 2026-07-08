@@ -1,6 +1,6 @@
 # <center>ZERO
 
-![Image](./Image/zero.JPG)
+![Image](./Image/zero.jpg)
 
 Welcome here, and thank you all for your support. This is the public directory of the Zero project, where some files will be gradually open-sourced.
 

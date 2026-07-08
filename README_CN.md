@@ -1,6 +1,6 @@
 # <center>ZERO
 
-![Image](./Image/zero.JPG)
+![Image](./Image/zero.jpg)
 
 欢迎来到这里，感谢大家支持，这是Zero项目的公开目录，会陆续开源出一些文件。
 
